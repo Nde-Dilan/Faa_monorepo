@@ -1,0 +1,6 @@
+[submodule "Job_Service_faar"]
+	path = Job_Service_faar
+	url = https://github.com/Martine-Carole/Job_Service_faar
+[submodule "job_board_api"]
+	path = job_board_api
+	url = https://github.com/MadickAngeCesar/job_board_api
